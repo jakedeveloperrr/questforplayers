@@ -1,0 +1,6 @@
+name: QuestForPlayers
+version: '${project.version}'
+main: dev.jake.questforplayers.QuestForPlayers
+api-version: 1.16
+commands:
+  quest:
